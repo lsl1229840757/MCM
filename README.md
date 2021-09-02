@@ -1,2 +1,2 @@
 # MCM
-2020美赛F题M奖(一等奖)
+Meritorious Winner in MCM/ICM Contest
