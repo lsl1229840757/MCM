@@ -1,2 +1,2 @@
 # MCM
-Meritorious Winner in MCM/ICM Contest
+Meritorious Winner of MCM/ICM Contest
